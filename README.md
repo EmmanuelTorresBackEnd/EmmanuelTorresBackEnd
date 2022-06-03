@@ -9,7 +9,7 @@
 </div>
 ________________________________________________________________________________________________________________________________________________________
 
-### Ferramentas e Tecnologias:
+#### Ferramentas e Tecnologias:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 </div>
 
-### Github stats:
+#### Github stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanueltorresbackend&show_icons=true&theme=dracula)
 
 
