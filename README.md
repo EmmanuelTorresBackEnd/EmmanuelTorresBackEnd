@@ -17,6 +17,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 </div>
  
- <div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanueltorresbackend)](https://github.com/emmanueltorresbackend/github-readme-stats)
-</div)
+
