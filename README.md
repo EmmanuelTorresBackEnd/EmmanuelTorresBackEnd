@@ -17,7 +17,7 @@ ________________________________________________________________________________
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 </div>
-________________________________________________________________________________________________________________________________________________________
+
 ### Github stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanueltorresbackend&show_icons=true&theme=dracula)
 
