@@ -24,4 +24,3 @@ ________________________________________________________________________________
 
 
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/88805916/171963914-f5a74f64-5881-4dfd-b095-ba2f18ee05a5.svg)
