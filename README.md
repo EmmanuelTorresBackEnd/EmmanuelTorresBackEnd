@@ -1,7 +1,7 @@
-## Olá pessoal 👋 Me Chamo Emmanuel, sou desenvolvedor Back-End!
+## Olá pessoal 👋 Me Chamo Emmanuel, sou Desenvolvedor Back-End!
 ### Bem vindo ao meu GitHub!
 
-### Contatos:
+#### Contatos:
 <div>
 <a href="https://www.instagram.com/unknownpiscian" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "emmanueltorresbackend@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
