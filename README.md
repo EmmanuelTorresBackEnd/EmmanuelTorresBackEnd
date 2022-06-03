@@ -7,7 +7,7 @@
 <a href = "emmanueltorresbackend@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/emmanuel-rodrigues-torres-2353431b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-_________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________
 
 ### Ferramentas e Tecnologias:
 <div>
@@ -17,8 +17,8 @@ ________________________________________________________________________________
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 </div>
-_________________________________________________________________________________________________________________________________________________________________________
- 
+__________________________________________________________________________________________________________________________________________________________________
+
 ### Github stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanueltorresbackend&show_icons=true&theme=dracula)
-_________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________________
