@@ -18,4 +18,4 @@
 </div>
  
 ### Github stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanueltorresbackend&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanueltorresbackend&show_icons=true&theme=gruvbox)
