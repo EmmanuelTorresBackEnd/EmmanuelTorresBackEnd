@@ -18,7 +18,7 @@ Especialista em ecossistema Microsoft, expandindo horizontes com foco em **Autom
 ---
 
 ### 🐍 Minha Atividade no GitHub (Snake)
-![github contribution grid snake animation](https://raw.githubusercontent.com/EmmanuelTorresBackEnd/EmmanuelTorresBackEnd/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/EmmanuelTorresBackEnd/EmmanuelTorresBackEnd/output/github-contribution-grid-snake.svg)
 
 ---
 
