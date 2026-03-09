@@ -1,7 +1,7 @@
 
 
 
-# Olá, eu sou o Emmanuel (KIFZ) 👋
+# Olá, eu sou o Emmanuel 👋
 
 ### 🚀 Desenvolvedor Pleno | Founder at **8Tech**
 Especialista em ecossistema Microsoft, expandindo horizontes com foco em **Automações em Python** e desenvolvimento de **Plugins com JavaScript para Dynamics**.
