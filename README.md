@@ -40,9 +40,9 @@
 | Projeto | Descrição |
 |---|---|
 | 🌐 [8Tech Site](https://emmanueltorresbackend.github.io/8tech-website/) | Site institucional em React + Vite com deploy no GitHub Pages |
-| ⚙️ Dynamics 365 Plugins | Customizações com C# e Web Resources em JavaScript |
-| 🤖 Power Automate Flows | Automações RPA Desktop & Cloud para processos corporativos |
-| ☁️ Azure Integrations | Deploy e integrações com serviços cloud Microsoft |
+| ⚙️ Dynamics 365 Plugins | Customizações com C# e Web Resources em JavaScript *(projetos corporativos)* |
+| 🤖 Power Automate Flows | Automações RPA Desktop & Cloud para processos corporativos *(projetos corporativos)* |
+| ☁️ Azure Integrations | Deploy e integrações com serviços cloud Microsoft *(projetos corporativos)* |
 
 ---
 
