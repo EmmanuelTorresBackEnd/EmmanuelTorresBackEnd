@@ -1,32 +1,53 @@
+# 👋 Olá, eu sou Emmanuel Torres
 
-
-
-# Olá, eu sou o Emmanuel 👋
-
-### 🚀 Desenvolvedor Pleno | Founder at **8Tech**
-Especialista em ecossistema Microsoft, expandindo horizontes com foco em **Automações em Python** e desenvolvimento de **Plugins com JavaScript para Dynamics**.
-
----
-
-### 🛠️ Minha Stack Principal
-- **Linguagens:** C#, Python 🐍, JavaScript 🟨
-- **Especialidades:** Plugins para Dynamics 365, Web Resources e Scripts Customizados.
-- **Automação/RPA:** Power Automate (Desktop & Cloud) e scripts Python para otimização.
-- **Sistemas:** MX Linux 🐧 & Windows 🪟
-- **Salesforce:** Nível Avançado (Estudos de integração).
+🚀 **Desenvolvedor Pleno | Founder na 8Tech**  
+💻 **Full Stack Developer especialista no ecossistema Microsoft**  
+🌐 Experiência em **.NET, Dynamics 365, Power Apps, Power Automate, Azure, React, Blazor, Vite e Python**  
+📍 Campina Grande – PB, Brasil  
 
 ---
 
-### 🐍 Minha Atividade no GitHub (Snake)
-![github contribution grid snake animation](https://raw.githubusercontent.com/EmmanuelTorresBackEnd/EmmanuelTorresBackEnd/output/github-contribution-grid-snake.svg)
+## 🛠️ Minha Stack Principal
+**Linguagens:**  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Especialidades:**  
+- Plugins para **Dynamics 365**  
+- Web Resources e Scripts Customizados  
+- Automação/RPA com **Power Automate (Desktop & Cloud)**  
+- Scripts Python para otimização  
+- Front-end moderno com **React + Vite** e **Blazor**  
+
+**Sistemas:**  
+🐧 MX Linux | 🪟 Windows  
+
+**Salesforce:**  
+Nível avançado (estudos de integração)  
 
 ---
 
-### 💡 Projetos Pessoais & Foco Técnico
-- **Python Automation:** Desenvolvimento de ferramentas para automação de tarefas e análise de dados.
-- **Dynamics Customization:** Criação de plugins e extensões em JavaScript para otimizar a experiência em CRM.
-- **8Tech Lab:** Laboratório de desenvolvimento independente focado em soluções escaláveis.
-- **AlfaPeople (Histórico):** +2 anos de experiência em projetos corporativos sob NDA.
+## 📈 Histórico
+
+- 🟦 **2022** → Início da jornada em tecnologia com o curso no **SENAI** (Fundamentos de Programação e Desenvolvimento de Sistemas)  
+- 🟩 **2022 – 2025** → Atuação na **AlfaPeople** (+3 anos de experiência em projetos corporativos sob NDA)  
+- 🟪 **2023 – 2024** → Projetos pessoais e estudos em **C#, Python, JavaScript** e automações com **Power Automate**  
+- 🟨 **2024 – 2025** → Desenvolvimento de soluções **full stack** com **.NET, React, Blazor, Vite** e integração com **Azure**  
+- 🟥 **2025 – atual** → Founder na **8Tech**, laboratório independente focado em soluções escaláveis  
 
 ---
-> *"Focado em transformar processos complexos em automações simples e eficientes."*
+
+## 💡 Projetos & Foco Técnico
+- **Site em React + Vite** → [8Tech Website](https://emmanueltorresbackend.github.io/8tech-website/)  
+- **Aplicação em Blazor** → Interface integrada ao .NET  
+- **CadastroDePecas** → CRUD simples para prática de lógica  
+- **TesteXunit** → Projeto de testes automatizados em .NET  
+- **Automação com Power Automate** → Fluxos corporativos inteligentes  
+
+---
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/emmanuel-rodrigues-torres/)  
+- 📧 Email: emmanueltorres21@live.com  
+- 🌐 [Meu Site - 8Tech](https://emmanueltorresbackend.github.io/8tech-website/)
