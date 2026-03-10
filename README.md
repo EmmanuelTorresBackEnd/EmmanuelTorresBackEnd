@@ -38,12 +38,14 @@ Nível avançado (estudos de integração)
 
 ---
 
-## 💡 Projetos & Foco Técnico
-- **Site em React + Vite** → [8Tech Website](https://emmanueltorresbackend.github.io/8tech-website/)  
-- **Aplicação em Blazor** → Interface integrada ao .NET  
-- **CadastroDePecas** → CRUD simples para prática de lógica  
-- **TesteXunit** → Projeto de testes automatizados em .NET  
-- **Automação com Power Automate** → Fluxos corporativos inteligentes  
+## 🌐 Projetos em Destaque
+
+- **Site em React + Vite** → mostra domínio de front-end moderno e integração com APIs  
+- **Aplicação em Blazor** → reforça sua experiência com front-end integrado ao .NET  
+- **Automação com Power Automate** → demonstra sua expertise em RPA e integração corporativa  
+- **Customizações para Dynamics 365** → plugins e web resources em JavaScript  
+- **Projetos com Azure** → soluções envolvendo deploy, funções e serviços cloud  
+- **8Tech Website (portfólio online)** → vitrine da sua identidade como Founder e Full Stack Microsoft Developer
 
 ---
 
