@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Emmanuel Torres
 
-🚀 **Desenvolvedor Pleno | Founder na 8Tech**  
-💻 **Full Stack Developer especialista no ecossistema Microsoft**  
+🚀 Full Stack Developer  
+Founder na 8Tech | Especialista em Ecossistema Microsoft 
 🌐 Experiência em **.NET, Dynamics 365, Power Apps, Power Automate, Azure, React, Blazor, Vite e Python**  
 📍 Campina Grande – PB, Brasil  
 
